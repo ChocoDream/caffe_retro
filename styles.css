@@ -6,16 +6,25 @@ img{
 }
 
 #hot{
-    background-image: url("hot.jpg");
     height: 100vh;
+    width: 100%;
+    background-image: url("hot.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 #juicy{
+    height: 100vh;
+    width: 100%;
     background-image: url("juicy.jpg");
-    height: 100vh
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 #cosy{
-    background-image: url("cosy.jpg");
     height: 100vh;
+    width: 100%;
+    background-image: url("cosy.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
 }

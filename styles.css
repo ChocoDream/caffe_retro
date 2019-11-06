@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+}
+
+#hot{
+    background-image: url("hot.jpg");
+    height: 100vh;
+}
+
+#juicy{
+    background-image: url("juicy.jpg");
+    height: 100vh
+}
+
+#cosy{
+    background-image: url("cosy.jpg");
+    height: 100vh;
+}
